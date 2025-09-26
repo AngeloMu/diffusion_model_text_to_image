@@ -1,4 +1,4 @@
-# diffusion_model_text_to_image
+# Esperimenti sui Diffusion Models
 Questa repository contiene i notebook e i risultati relativi alla parte sperimentale della mia tesi triennale.
 Gli esperimenti sono stati condotti con Stable Diffusion v1.5 su Kaggle (GPU T4), usando la libreria Hugging Face Diffusers.
 
